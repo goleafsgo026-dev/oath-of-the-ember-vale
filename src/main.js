@@ -71,22 +71,22 @@ const hud = {
 };
 
 const ASSET = {
-  map: '/assets/fantasy/raw/overworld.png',
-  dungeon: '/assets/fantasy/raw/dungeon.png',
-  characters: '/assets/fantasy/raw/characters.png',
-  warrior: '/assets/openart/player/warrior_sheet.png',
-  slash: '/assets/openart/fx/pixel_art_sword_slash_sprites.png',
-  music: '/assets/fantasy/audio/music/peasantry.ogg',
+  map: 'assets/fantasy/raw/overworld.png',
+  dungeon: 'assets/fantasy/raw/dungeon.png',
+  characters: 'assets/fantasy/raw/characters.png',
+  warrior: 'assets/openart/player/warrior_sheet.png',
+  slash: 'assets/openart/fx/pixel_art_sword_slash_sprites.png',
+  music: 'assets/fantasy/audio/music/peasantry.ogg',
   audio: {
-    sword: '/assets/fantasy/audio/sfx/sword-swing.ogg',
-    clash: '/assets/fantasy/audio/sfx/sword-clash.ogg',
-    hurt: '/assets/fantasy/audio/sfx/creature-hurt.ogg',
-    die: '/assets/fantasy/audio/sfx/creature-die.ogg',
-    collect: '/assets/fantasy/audio/sfx/collect.ogg',
-    step: '/assets/fantasy/audio/sfx/step.ogg',
-    ui: '/assets/fantasy/audio/sfx/ui-click.ogg',
-    victory: '/assets/fantasy/audio/sfx/victory.ogg',
-    defeat: '/assets/fantasy/audio/sfx/defeat.ogg'
+    sword: 'assets/fantasy/audio/sfx/sword-swing.ogg',
+    clash: 'assets/fantasy/audio/sfx/sword-clash.ogg',
+    hurt: 'assets/fantasy/audio/sfx/creature-hurt.ogg',
+    die: 'assets/fantasy/audio/sfx/creature-die.ogg',
+    collect: 'assets/fantasy/audio/sfx/collect.ogg',
+    step: 'assets/fantasy/audio/sfx/step.ogg',
+    ui: 'assets/fantasy/audio/sfx/ui-click.ogg',
+    victory: 'assets/fantasy/audio/sfx/victory.ogg',
+    defeat: 'assets/fantasy/audio/sfx/defeat.ogg'
   }
 };
 
